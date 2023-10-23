@@ -5,5 +5,6 @@ Here will be the menu so that you can find yourself in the middle of the documen
 ```
   - JAVASCRYPT
     - INTRODUCTION
-      - what-is-javascript
+      - what-is-javascript.md
+      - javascript-history.md
 ```
