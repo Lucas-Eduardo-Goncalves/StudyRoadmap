@@ -6,4 +6,4 @@ Além de ser usado no navegador, ele também é usado em outros ambientes, como 
 
 Além de tudo isso, o Javascript é uma linguagem leve, interpretada e baseada em `funções de primeira classe`, isto é: A linguagem suporta funções como argumentos para outras funções, retornando-as como os valores de outras funções e atribuindo-as a variáveis ou a armazendo-as em estruturas de dados.
 
-O padrão do Javascript é o [ECMAScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/JavaScript_technologies_overview),
+O padrão do Javascript é o [ECMAScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/JavaScript_technologies_overview).
