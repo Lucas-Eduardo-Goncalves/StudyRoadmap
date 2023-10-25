@@ -25,4 +25,7 @@ Here will be the menu so that you can find yourself in the middle of the documen
       1.4.1 explicit-type-casting.md
       1.4.2 implicit-type-casting.md
       1.4.3 type-conversion-vs-coercion.md
+    1.5 DATASTRUCTURE
+      1.5.1 indexed-collections.md
+      1.5.2 typed-arrays.md
 ```
