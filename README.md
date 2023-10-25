@@ -1,6 +1,7 @@
 # Lucas Gonçalves - Study Roadmap
 
 Here will be the menu so that you can find yourself in the middle of the documentation.
+[ROADMAP](https://roadmap.sh/javascript)
 
 ```
   1 Javascript
@@ -20,4 +21,8 @@ Here will be the menu so that you can find yourself in the middle of the documen
       1.3.4 built-in-objects.md
       1.3.5 prototypes.md
       1.3.6 prototypal-inheritance.md
+    1.4 TYPECASTING
+      1.4.1 explicit-type-casting.md
+      1.4.2 implicit-type-casting.md
+      1.4.3 type-conversion-vs-coercion.md
 ```
