@@ -27,5 +27,12 @@ Here will be the menu so that you can find yourself in the middle of the documen
       1.4.3 type-conversion-vs-coercion.md
     1.5 DATASTRUCTURE
       1.5.1 indexed-collections.md
-      1.5.2 typed-arrays.md
+        1.5.1.1 array.md
+        1.5.1.2 typed-arrays.md
+      1.5.2 keyed-collections.md
+        1.5.2.1 map.md
+        1.5.2.2 weak-map.md
+        1.5.2.3 set.md
+        1.5.2.4 week-set.md
+      1.5.3 json.md
 ```
