@@ -47,4 +47,8 @@ Here will be the menu so that you can find yourself in the middle of the documen
       7.3 - while-statement.md
       7.4 - do-while-statement.md
       7.5 - while-vs-for-do-while.md
+      7.6 - for-in.md
+      7.7 - for-of.md
+      7.8 - break-and-continue.md
+      7.8 - labeled-statements.md
 ```
