@@ -1,4 +1,4 @@
-# Two sum
+# Duas Somas
 
 Dada uma matriz de números inteiros e um alvo inteiro, retorne os índices dos dois números de forma que eles somem ao alvo.
 

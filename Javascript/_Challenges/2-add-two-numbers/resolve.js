@@ -9,7 +9,7 @@ const list2 = [9, 9, 9, 9];
  * @return {Array} Retorna uma lista de numeros que foram somados.
  */
 
-function handleAddTwoNumbers(list1, list2) {
+function addTwoNumbers(list1, list2) {
   const num1 = +list1.reverse().join("");
   const num2 = +list2.reverse().join("");
 
@@ -20,4 +20,4 @@ function handleAddTwoNumbers(list1, list2) {
     .map((value) => +value);
 }
 
-console.log(handleAddTwoNumbers(list1, list2));
+console.log(addTwoNumbers(list1, list2));

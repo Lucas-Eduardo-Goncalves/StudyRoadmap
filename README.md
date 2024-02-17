@@ -51,4 +51,6 @@ Here will be the menu so that you can find yourself in the middle of the documen
       7.7 - for-of.md
       7.8 - break-and-continue.md
       7.8 - labeled-statements.md
+    8 - ControlFlow
+      7.1 - what-is-control-flow.md
 ```
