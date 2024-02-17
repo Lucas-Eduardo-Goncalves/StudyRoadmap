@@ -53,4 +53,7 @@ Here will be the menu so that you can find yourself in the middle of the documen
       7.8 - labeled-statements.md
     8 - ControlFlow
       7.1 - what-is-control-flow.md
+      7.2 - conditional-statements
+        7.2.1 - if-else.md
+        7.2.2 - switch.md
 ```
