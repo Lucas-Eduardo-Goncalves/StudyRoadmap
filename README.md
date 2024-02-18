@@ -51,12 +51,14 @@ by [Developer Javascript Roadmap](https://roadmap.sh/javascript)
       7.6 - for-in.md
       7.7 - for-of.md
       7.8 - break-and-continue.md
-      7.8 - labeled-statements.md
+      7.9 - labeled-statements.md
     8 - ControlFlow
-      7.1 - what-is-control-flow.md
-      7.2 - conditional-statements
-        7.2.1 - if-else.md
-        7.2.2 - switch.md
-      7.3 - exception-handling
-        7.3.1 - throw-statement.md
+      8.1 - what-is-control-flow.md
+      8.2 - conditional-statements
+        8.2.1 - if-else.md
+        8.2.2 - switch.md
+      8.3 - exception-handling
+        8.3.1 - throw-statement.md
+        8.3.2 - handling-errors.md
+        8.3.3 - utilizing-error-objects
 ```
