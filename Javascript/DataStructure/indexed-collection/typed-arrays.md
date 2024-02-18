@@ -1,6 +1,6 @@
 # Typed Arrays
 
-Typed Arrays (ou Arrays Tipados) em JavaScript são uma forma de trabalhar com dados binários de maneira mais eficiente do que os arrays regulares, que são mais adequados para armazenar dados de texto e números. As Arrays Tipados são usadas para manipular dados binários, como imagens, áudio, vídeo e outros tipos de dados que são armazenados de forma binária.
+Typed Arrays (ou Arrays Tipados) em Javascript são uma forma de trabalhar com dados binários de maneira mais eficiente do que os arrays regulares, que são mais adequados para armazenar dados de texto e números. As Arrays Tipados são usadas para manipular dados binários, como imagens, áudio, vídeo e outros tipos de dados que são armazenados de forma binária.
 
 Aqui estão alguns conceitos importantes relacionados às Arrays Tipados:
 
@@ -49,11 +49,11 @@ uint8Array.copyWithin(2, 0, 4); // Copia os bytes da posição 0 a 4 para a posi
 
 ## Desempenho e Eficiência
 
-Arrays Tipados são mais eficientes em termos de memória e desempenho em comparação com arrays regulares ao lidar com dados binários, especialmente em contextos que exigem processamento de grandes volumes de dados, como processamento de imagens ou áudio.
+Arrays Tipados são mais eficientes em termos de memória e desempenho em comparação com arrays regulares ao lidar com dados binários, especialmente em contextos que exigem processamento de grandes volumes de dados, como processamento de imagens ou áudios.
 
 ## Exemplo de uso
 
-Um exemplo comum e útil de uso de Typed Arrays é no processamento de imagens, onde os dados da imagem são representados como matrizes de bytes. Vou dar um exemplo de como você pode usar um `Uint8Array` para manipular os pixels de uma imagem de forma eficiente em JavaScript.
+Um exemplo comum e útil de uso de Typed Arrays é no processamento de imagens, onde os dados da imagem são representados como matrizes de bytes. Vou dar um exemplo de como você pode usar um `Uint8Array` para manipular os pixels de uma imagem de forma eficiente em Javascript.
 
 Suponha que você tenha uma imagem no formato PNG e deseja aplicar um efeito de escala de cinza a ela. Você pode carregar a imagem, converter seus dados em um `Uint8Array`, processá-los e, em seguida, exibir a imagem resultante. Aqui está um exemplo simplificado disso:
 

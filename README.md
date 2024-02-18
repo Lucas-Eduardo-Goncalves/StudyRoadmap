@@ -1,11 +1,10 @@
 # Lucas Gonçalves - Study Roadmap
 
 Here will be the menu so that you can find yourself in the middle of the documentation.
-[ROADMAP](https://roadmap.sh/javascript)
 
 ## Javascript
 
-**by [Developer Roadmaps](https://roadmap.sh/javascript)**
+by [Developer Javascript Roadmap](https://roadmap.sh/javascript)
 
 ```
     1 - Introduction
@@ -58,4 +57,6 @@ Here will be the menu so that you can find yourself in the middle of the documen
       7.2 - conditional-statements
         7.2.1 - if-else.md
         7.2.2 - switch.md
+      7.3 - exception-handling
+        7.3.1 - throw-statement.md
 ```
